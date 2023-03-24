@@ -3,7 +3,6 @@ import { StudentProvider } from './utils/StudentContext';
 import StudentList from './components/StudentList';
 import './app.css';
 
-const App = 12
 function App() {
   const title = 'Activity 20: useReducer Review';
   useEffect(() => {
